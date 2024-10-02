@@ -10,7 +10,8 @@ The system consists of two main components:
 
 1. **Kannada OCR**: A deep learning-based model that can recognize Kannada characters from images.
 2. **Writer Identification**: A clustering-based approach that identifies different writers based on their handwriting style.
-![Workflow]([https://github.com/satyam9k/Hackathon_team13/blob/main/model_train.png](https://github.com/satyam9k/Hackathon_team13/blob/main/example/model.png))
+![Workflow](https://github.com/satyam9k/Hackathon_team13/blob/main/example/model.png)
+
 ## Features
 
 ### Kannada OCR

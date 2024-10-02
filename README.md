@@ -12,6 +12,17 @@ The system consists of two main components:
 2. **Writer Identification**: A clustering-based approach that identifies different writers based on their handwriting style.
 ![Workflow](https://github.com/satyam9k/Hackathon_team13/blob/main/example/model.png)
 
+## Dataset Used
+
+The dataset for this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/dhruvildave/kannada-characters/data).
+
+### Description
+
+This dataset contains **16,425 images** of handwritten characters in the Kannada language. It is designed for classification tasks in Computer Vision and includes the following details:
+
+- **Total Classes**: 657 classes
+- **Images per Class**: 25 images for each class
+
 ## Features
 
 ### Kannada OCR

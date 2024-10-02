@@ -89,7 +89,10 @@ Writer identification utilizes handwriting samples to identify distinct writing 
 - The features from each segment are compiled into a feature vector.
 - K-Means clustering is applied to these vectors to group similar handwriting samples together. The algorithm identifies clusters based on the calculated features, enabling the system to classify handwriting by writer.
 
-![Example](https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer0.png,https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer1.png,https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer2.png)
+![Writer 0](https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer0.png)
+![Writer 1](https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer1.png)
+![Writer 2](https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer2.png)
+
 
 ## License
 

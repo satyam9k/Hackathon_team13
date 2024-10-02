@@ -94,6 +94,10 @@ Writer identification utilizes handwriting samples to identify distinct writing 
 ![Writer 1](https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer1.png)
 ![Writer 2](https://github.com/satyam9k/Hackathon_team13/blob/main/example/writer2.png)
 
+## Collaborators
+
+- **Satyam Kumar** - [GitHub Profile](https://github.com/satyam9k)
+- **Priyansha Upadhyay** - [GitHub Profile](https://github.com/Priyansha13)
 
 ## License
 

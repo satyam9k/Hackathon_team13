@@ -51,7 +51,7 @@ The model is compiled with the Adam optimizer, using categorical cross-entropy a
 
 ### 4. Model Training
 During training, the model learns to minimize the loss function through backpropagation, updating the weights based on the gradient of the loss. The training process is monitored using validation data to prevent overfitting, applying techniques such as early stopping and learning rate reduction when necessary.
-
+![Model Trainig]([handwriting_example.png](https://github.com/satyam9k/Hackathon_team13/blob/main/model_train.png))
 # Writer Identification
 
 The Writer Identification component of this project aims to distinguish different writers based on the characteristics of their handwriting. This is achieved through feature extraction and clustering techniques.
